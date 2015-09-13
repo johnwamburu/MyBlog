@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'john mbari'
+AUTHOR = u'john wamburu'
 SITENAME = u'John Mbari Wamburu'
 SITEURL = 'http://localhost:8000'
 
@@ -24,18 +24,21 @@ LINKS = ()
 
 # Social widget
 SOCIAL = (
-    ('Twitter', 'http://twitter.com/johnwamburu'),
     ('Github', 'http://github.com/johnwamburu'),
+    ('Bitbucket', 'https://bitbucket.org/johnwamburu/'),
+    ('Twitter', 'http://twitter.com/johnwamburu'),
     ('LinkedIn', 'https://ke.linkedin.com/in/johnwamburu'),
 )
 
 DEFAULT_PAGINATION = 2
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'pdfs']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+DISQUS_SITENAME = "johnwamburu"
+GOOGLE_ANALYTICS = "UA-67521796-1"
 
 THEME = "pelican-svbhack"
 
