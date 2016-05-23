@@ -9,8 +9,6 @@ If I were to rank my languages, Python would be first - then Java, Scala, C, C++
 
 I have a degree in Software Engineering - they actually let me graduate top of that class.
 
-I am taking a Masters in Computer Science (At Gatech).
-
 I like scaling challenges and high performance computing architectures. A lot.
 
 I tend to respond to [email](mailto:jwamburu@gatech.edu) within 24 hours.
