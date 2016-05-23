@@ -1,5 +1,5 @@
 Title: About Me
-Date: 2016-02-03 22:07
+Date: 2016-05-23 11:09
 URL:
 save_as: index.html
 
@@ -9,13 +9,13 @@ If I were to rank my languages, Python would be first - then Java, Scala, C, C++
 
 I have a degree in Software Engineering - they actually let me graduate top of that class.
 
-I am currently doing an M.Sc. in Computer Science (At Gatech)
+I am taking a Masters in Computer Science (At Gatech).
 
-I like scaling challenges, high performance computing architectures, and analyzing enormous amounts of data with Machine Learning.
+I like scaling challenges and high performance computing architectures. A lot.
 
-I respond to [email](mailto:jwamburu@gatech.edu) faster than [Twitter](http://twitter.com/johnwamburu){:target="_blank"}.
+I tend to respond to [email](mailto:jwamburu@gatech.edu) within 24 hours.
 
-My open source contributions can be found on [Github](http://github.com/johnwamburu){:target="_blank"}.
+My open source contributions can be found on [Github](http://github.com/jwamburu){:target="_blank"}.
 
 I also have a profile on [LinkedIn](https://ke.linkedin.com/in/johnwamburu){:target="_blank"}.
 

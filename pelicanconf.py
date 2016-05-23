@@ -24,8 +24,7 @@ LINKS = ()
 
 # Social widget
 SOCIAL = (
-    ('Github', 'http://github.com/johnwamburu'),
-    ('Bitbucket', 'https://bitbucket.org/johnwamburu/'),
+    ('Github', 'http://github.com/jwamburu'),
     ('Twitter', 'http://twitter.com/johnwamburu'),
     ('LinkedIn', 'https://ke.linkedin.com/in/johnwamburu'),
 )
