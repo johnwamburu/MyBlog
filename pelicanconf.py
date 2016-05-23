@@ -44,3 +44,5 @@ THEME = "pelican-svbhack"
 TAGLINE = ""
 
 USER_LOGO_URL = SITEURL + '/images/john-mbari-wamburu.JPG'
+
+LOAD_CONTENT_CACHE = False
