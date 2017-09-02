@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'john wamburu'
+AUTHOR = u'John Wamburu'
 SITENAME = u'John Mbari Wamburu'
 SITEURL = 'http://www.johnwamburu.me'
 
