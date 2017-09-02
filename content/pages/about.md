@@ -1,17 +1,19 @@
 Title: About Me
-Date: 2016-05-23 11:09
+Date: 2017-09-02 17:14
 URL:
 save_as: index.html
 
-I am a software engineer at IBM.
+I am a Computer Science PhD Student at the University of Massachusetts, Amherst, advised by Professor Prashant Shenoy.
 
-If I were to rank my languages, Python would be first - then Java, Scala, C, C++.
+In my previous life, I was a software engineer at IBM.
 
-I have a degree in Software Engineering - they actually let me graduate top of that class.
+My research is in Systems, particularly in intelligent transportation systems.
 
-I like scaling challenges and high performance computing architectures. A lot.
+My undergraduate degree is in Software Engineering.
 
-I tend to respond to [email](mailto:jwamburu@gatech.edu) within 24 hours.
+If I were to rank my languages, Python would be first - then Java, C, C++.
+
+I tend to respond to [email](mailto:jwamburu@cs.umass.edu) within 24 hours.
 
 My open source contributions can be found on [Github](http://github.com/jwamburu){:target="_blank"}.
 
