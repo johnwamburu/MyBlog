@@ -19,13 +19,10 @@ hr {
 img {
   max-width: 100%;
 }
-aside{
-    background: #2595c5;
-    color: white;
-}
-.user-logo {
-    border-radius: 15px;
-    width: 180px;
+.round-img {
+  border-radius: 50%;
+  padding: 2px;
+  border: 10px solid;
 }
 aside div#user_meta {
   padding: 40px;
@@ -36,12 +33,12 @@ aside div#user_meta h2 {
 }
 aside div#user_meta p {
   margin: 0 0 15px 0;
-  font-size: 14px;
+  font-size: .8rem;
 }
 aside div#user_meta ul {
   margin: 40px 0 0 0;
   padding-left: 0;
-  font-size: 16px;
+  font-size: .9rem;
   list-style-type: none;
 }
 aside div#user_meta ul li {
@@ -49,12 +46,12 @@ aside div#user_meta ul li {
   line-height: 3em;
 }
 aside div#user_meta ul li a {
-  /*padding: 5px 15px 5px 15px;
+  padding: 5px 15px 5px 15px;
   border: 3px solid #eeeeee;
   border-radius: 15px;
   -moz-border-radius: 15px;
-  -webkit-border-radius: 15px;*/
-  color: #fff;
+  -webkit-border-radius: 15px;
+  color: #999999;
 }
 main header {
   padding: 40px;
@@ -63,7 +60,7 @@ main header {
 }
 main header p {
   font-weight: bold;
-  font-size: 10px;
+  font-size: .6rem;
   text-transform: uppercase;
 }
 main article {
@@ -80,7 +77,7 @@ main article div.article_text code {
   margin: 2px;
   padding: 0;
   color: #000000;
-  font-size: 14px;
+  font-size: .8rem;
   font-family: 'PT Mono', monospace;
   background: #eeeeee;
 }
@@ -89,7 +86,7 @@ main article div.article_text pre {
   padding: 2px;
   color: #000000;
   border-left: 3px solid #0e94ec;
-  font-size: 14px;
+  font-size: .8rem;
   font-family: 'PT Mono', monospace;
   background: #eeeeee;
   line-height: 1.125em;
@@ -105,7 +102,7 @@ main article div.gist {
   line-height: .875em;
 }
 main article div.article_meta {
-  font-size: 12px;
+  font-size: .7rem;
   color: #999999;
 }
 main footer {
@@ -120,7 +117,7 @@ main footer a.button_accent {
   -webkit-border-radius: 20px;
   text-transform: uppercase;
   color: #0e94ec;
-  font-size: 18px;
+  font-size: 1rem;
 }
 main footer a.button_accent:hover {
   color: #ffffff;
@@ -134,7 +131,7 @@ main div#ending_message {
   border-top: #eeeeee 1px solid;
   padding: 0 40px 0 40px;
   color: #999999;
-  font-size: 15px;
+  font-size: .6rem;
 }
 @media screen and (min-width: 1024px) {
   aside {
@@ -148,12 +145,9 @@ main div#ending_message {
   aside h2 {
     margin: 10px 0 0 0;
   }
-  aside h2 a{
-      color: #fff;
-  }
   aside div#user_meta {
     max-width: 192px;
-    text-align: left;
+    text-align: right;
   }
   aside div#user_meta ul li {
     display: block;
